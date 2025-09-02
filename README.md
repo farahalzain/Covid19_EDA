@@ -78,7 +78,3 @@ covid19-eda/
 * Extend dashboard with user input filters.
 
 ---
-
----
-
-تحب أعملك كمان نسخة **مبسطة بالعربي** للـ README بجانب هاد؟ ولا تخلي كلشي بالإنجليزي؟
