@@ -29,19 +29,6 @@ The project highlights:
 
 ---
 
-## How to Run
-
-### Jupyter/Colab Notebook
-
-1. Open **`Self_Covid19_EDA.ipynb`** in Jupyter Notebook or Google Colab.
-2. Run all cells to:
-
-   * Load WHO COVID-19 data
-   * Perform cleaning & preprocessing
-   * Visualize insights
-
------
-
 ## Key Features
 
 * Data cleaning (missing values, duplicates, date parsing)
